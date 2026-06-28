@@ -8,7 +8,7 @@ I built this to get hands-on experience with OCR, regex parsing, and Streamlit w
 
 ## Demo Screenshot
 
-![Logistics OCR Extractor demo](screenshots/demo_screenshot.PNG) 
+![Logistics OCR Extractor demo](screenshots/demo_screenshot.png) 
 
 ---
 
