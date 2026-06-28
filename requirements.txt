@@ -1,0 +1,20 @@
+# Core OCR library — reads text from images
+pytesseract==0.3.10
+
+# Image handling — open, display, and manipulate image files
+Pillow==10.3.0
+
+# Web app framework — builds the browser-based upload interface
+streamlit==1.35.0
+
+# Data handling — creates DataFrames and exports to CSV
+pandas==2.2.2
+
+# (Optional) EasyOCR — a deep-learning alternative to pytesseract
+# Uncomment the line below if you want to try it instead
+# easyocr==1.7.1
+
+# NOTE: pytesseract also requires the Tesseract binary installed on your system.
+# Windows: https://github.com/UB-Mannheim/tesseract/wiki
+# macOS:   brew install tesseract
+# Linux:   sudo apt install tesseract-ocr
